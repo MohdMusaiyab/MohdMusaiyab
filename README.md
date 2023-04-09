@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++ and DSA**
 
-- 📫 How to reach me **mohdmusaiyab123@gmail.com**
+- 📫 You can mail me at **mohdmusaiyab123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
