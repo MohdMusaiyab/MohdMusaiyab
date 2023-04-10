@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Musaiyab</h1>
 <h3 align="center">A new Developer trying hands on Open-Source</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdmusaiyab&label=Profile%20views&color=0e75b6&style=flat" alt="mohdmusaiyab" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mohd_musaiyab" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_musaiyab?logo=twitter&style=for-the-badge" alt="mohd_musaiyab" /></a> </p>
 
