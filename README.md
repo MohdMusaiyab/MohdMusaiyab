@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohd_musaiyab" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_musaiyab?logo=twitter&style=for-the-badge" alt="mohd_musaiyab" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS and Javascript**
+- 🌱 I’m currently learning **NODE JS
 
 - 💬 Ask me about **C++ and DSA**
 
