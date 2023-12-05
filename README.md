@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/mohd_musaiyab" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_musaiyab?logo=twitter&style=for-the-badge" alt="mohd_musaiyab" /></a> </p>
 
-- 🌱 I’m currently learning **NODE JS**
+- 🌱 I’m currently learning **Advanced Backend & DevOps**
 
-- 💬 Ask me about **C++ and DSA**
+- 💬 Ask me about **C++,DSA & MERN**
 
 - 📫 You can mail me at **mohdmusaiyab123@gmail.com**
 
