@@ -4,11 +4,29 @@
 
 <p align="left"> <a href="https://twitter.com/mohd_musaiyab" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_musaiyab?logo=twitter&style=for-the-badge" alt="mohd_musaiyab" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Backend & DevOps**
+# Hi there! 👋 I'm Mohd Musaiyab
 
-- 💬 Ask me about **C++,DSA & MERN**
+- 🌱 **Currently Learning**: Advanced Backend & DevOps  
+- 💬 **Ask me about**:  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+  ![Data Structures & Algorithms](https://img.shields.io/badge/DSA-%23FFA500?style=flat)  
+  ![MERN Stack](https://img.shields.io/badge/MERN-4CAF50?style=flat&logo=node.js&logoColor=white)  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-- 📫 You can mail me at **mohdmusaiyab123@gmail.com**
+- 📫 **Contact Me**: [musaiyab2003@gmail.com](mailto:musaiyab2003@gmail.com)  
+
+---
+
+## 🌐 **My Portfolio**
+Check out my work:  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://mohd-musaiyab.onrender.com)
+
+---
+
+## 💻 **Latest Project**
+[Gossipyfy](https://gossipyfy.vercel.app) – A platform to share Gossips and Earn.  
+[![Latest Project](https://img.shields.io/badge/Gossipyfy-Live_Project-4CAF50?style=for-the-badge)](https://gossipyfy.vercel.app)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
