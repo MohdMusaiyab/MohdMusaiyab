@@ -67,4 +67,4 @@ I'll help you add the additional technologies to the Languages and Tools section
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdmusaiyab&show_icons=true&locale=en&layout=compact" alt="mohdmusaiyab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdmusaiyab&" alt="mohdmusaiyab" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MohdMusaiyab&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
