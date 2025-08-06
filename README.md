@@ -70,9 +70,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohdMusaiyab&repo=gossipyfy&theme=radical&hide_border=true&bg_color=000000&title_color=FF6B6B&text_color=FFFFFF&icon_color=A855F7" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohdmusaiyab&theme=shades-of-purple" alt="GitHub Streak" /></a>
 
 ---
 
