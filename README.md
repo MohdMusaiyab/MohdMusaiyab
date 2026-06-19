@@ -38,6 +38,7 @@ I also like going back to CS fundamentals. The more I build, the more I realise 
 <div align="center">
 
 ### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -48,8 +49,7 @@ I also like going back to CS fundamentals. The more I build, the more I realise 
 ![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F)
 ![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=FFD43B)
-![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![GORM](https://img.shields.io/badge/GORM-0f172a?style=for-the-badge&logo=go&logoColor=00ADD8)
 
 ### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
@@ -100,9 +100,6 @@ I also like going back to CS fundamentals. The more I build, the more I realise 
 </a>
 <a href="https://twitter.com/mohd_musaiyab">
 <img src="https://img.shields.io/badge/Twitter-0f172a?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://instagram.com/musaiyab_001">
-<img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 <a href="https://www.leetcode.com/mohd_musaiyab">
 <img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
